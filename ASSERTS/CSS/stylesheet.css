@@ -20,6 +20,7 @@ h3{
     font-family: 'Times New Roman';
     margin-top: 0 !important;
     padding-top: 0 !important;
+    text-decoration: underline;
 }
 span{
     font-size: 10px;
